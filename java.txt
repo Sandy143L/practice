@@ -5,3 +5,9 @@ exception
 opps
 gemeric clas
 garbage collection
+Advace java
+variables and class 
+interfacees
+file interfaces
+lamda
+
